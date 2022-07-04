@@ -5,7 +5,7 @@ I'm Polish, living in the Canary Islands. In September 2021, I started my advent
 ### My uTest stats
 
 <img src= "https://github.com/Bugirl/Bugirl/blob/main/1.png" width="600"/>
-<img src= "https://github.com/Bugirl/Bugirl/blob/main/2.png width="600" />
+<img src= "https://github.com/Bugirl/Bugirl/blob/main/2.png" width="600"/>
 
 ### Skills
 * 🐞 Funcional testing (web, desktop, mobile apps)
