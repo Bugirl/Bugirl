@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Izabela
 ## 🔎 Software Tester
-I'm Polish, living in the Canary Islands. In September 2021, I started my adventure with software testing, trying my hand on uTest. Until today, I have participated in 51 test cycles, tested 31 products of well-known global brands and reported 52 bugs. I am self-taught, currently learning Cypress and the basics of Javascript. Privately a fan of snorkeling, board games and an actress of children's theater. I speak Polish, English and Spanish.
+I'm Polish, living in the Canary Islands. In September 2021, I started my adventure with software testing, trying my hand on uTest. Until today, I have participated in tens of test cycles, testing products of well-known global brands. I am self-taught, currently learning Cypress and SQL. Privately a fan of snorkeling, board games and an actress of children's theater. I speak Polish, English and Spanish.
 
 ### My uTest stats
 
